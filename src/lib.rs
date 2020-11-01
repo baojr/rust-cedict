@@ -29,7 +29,6 @@
 //!
 //! ```
 
-#![feature(conservative_impl_trait)]
 use std::io::{BufRead, BufReader, Read};
 
 /// A struct that contains all fields of a CEDICT definition
